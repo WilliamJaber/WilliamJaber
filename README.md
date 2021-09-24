@@ -8,6 +8,6 @@
 - 🤓 I’m currently learning Python.
 - 😊 It's always good to have help.
 - 🤝 I’m looking to collaborate in different projects.
-- 💬 Never suppose always ask.
+- 💬 Never suppose, always ask.
 - 📫 How to reach me: williamjaber94@gmail.com
 - ⚡ Languages: Spanish, English & Arabic.
