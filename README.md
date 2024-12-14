@@ -8,5 +8,5 @@
 - 🤓 I’m currently learning Python, JavaScript & TypeScript.
 - 🤝 I’m looking to collaborate in different projects to improve.
 - 💬 Never assume, always ask.
-- 📫 Telegram: @Will_9494
+- 📫 Telegram: @will_WC
 - ⚡ Languages: Spanish, English & Arabic.
